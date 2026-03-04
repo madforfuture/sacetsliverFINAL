@@ -320,7 +320,7 @@ export const events: Event[] = [
       "Topic: Covered All Business-Related Issues",
       "Spot Registration on the Day of the Event (05-03-2026)",
       "CO-ORDINATOR: V. URMILA (9010941753)",
-      "Email: Uamila_ver@yahoo.com"
+      "Email: Urmila_ver@yahoo.com"
     ],
     date: "March 5, 2026",
     time: "02:00 PM",
